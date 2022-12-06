@@ -1,1 +1,4 @@
 # Classifier-POC
+
+V9 Classifier updated to save the data_classifier dadtaframe to feed the POC (Demo GiveMeLabeledIssues) with the dataset to train. 
+
