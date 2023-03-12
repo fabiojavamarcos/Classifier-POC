@@ -4,3 +4,4 @@ V9 Classifier updated to save the data_classifier dataframe to feed the POC (Dem
 
 Also the notebooks creates df_teste.csv files with the models' evaluation 
 
+The BERT training and evaluation is here: https://github.com/JoeyV55/BERTTraining
